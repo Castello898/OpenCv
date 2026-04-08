@@ -4,7 +4,6 @@ import os
 import numpy as np
 
 def equalizar_canal_manual(canal):
-    """Aplica a equalização de histograma sem funções prontas (from scratch)."""
     # Altura e Largura da imagem
     linhas, colunas = canal.shape
     total_pixels = linhas * colunas
