@@ -1,7 +1,11 @@
+venv/
 .venv/
-__pycache__/
+venv~/
+.venv~/
+fotos/
+fotosrgb/
 resultados/
 resultadosrgb/
 *.jpg
 *.png
-
+__pycache__/
